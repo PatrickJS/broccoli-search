@@ -1,0 +1,29 @@
+{
+  "name": "broccoli-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Search for Broccoli plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gdi2290 <github@gdi2290.com>",
+  "keywords": [
+    "broccoli",
+    "components",
+    "packages",
+    "manager",
+    "plugins",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdi2290/broccoli-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdi2290/broccoli-search/issues"
+  },
+  "homepage": "https://github.com/gdi2290/broccoli-search"
+}
